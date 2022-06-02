@@ -1,0 +1,6 @@
+C:\Users\frank\source\repos\CalculadoraDeImc\obj\Debug\CalculadoraDeImc.csproj.AssemblyReference.cache
+C:\Users\frank\source\repos\CalculadoraDeImc\obj\Debug\CalculadoraDeImc.csproj.CoreCompileInputs.cache
+C:\Users\frank\source\repos\CalculadoraDeImc\bin\Debug\CalculadoraDeImc.exe
+C:\Users\frank\source\repos\CalculadoraDeImc\bin\Debug\CalculadoraDeImc.pdb
+C:\Users\frank\source\repos\CalculadoraDeImc\obj\Debug\CalculadoraDeImc.exe
+C:\Users\frank\source\repos\CalculadoraDeImc\obj\Debug\CalculadoraDeImc.pdb
